@@ -1,0 +1,538 @@
+
+.webdev {
+    position: absolute;
+    width: 1600px;
+    height: 4105px;   
+}
+.big-image-wrapper {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 3361px;
+}
+.big-image {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: -22px;
+    bottom: -22px;
+}
+.bg-2 {
+    position: absolute;
+    width: 1600px;
+    height: 842px;
+    left: 0px;
+    top: 744px;
+    background-color: white
+}
+.bg {
+    position: absolute;
+    width: 1600px;
+    height: 504px;
+    left: 0px;
+    top: 1586px;
+    background-color: #F5F6F7;
+    overflow: hidden;
+}
+.bg-3 {
+    position: absolute;
+    width: 1600px;
+    height: 842px;
+    left: 0px;
+    top: 2090px;
+    background-color: white
+}
+.pexels-christina-morillo {
+    position: absolute;
+    width: 1600px;
+    height: 524px;
+    left: 0x;
+    top: 2932px;
+    background-color: white;
+}
+.bg-7 {
+    position: absolute;
+    width: 1600px;
+    height: 464px;
+    left: 0px;
+    top: 3456px;
+    background-color: #F5F6F7;
+}
+.restangle-7 {
+    position: absolute;
+    width: 1600px;
+    height: 185px;
+    left: 0px;
+    top: 3920px;
+    background-color: black;
+}
+.about {
+    width: 38px;
+    height: 20px;
+    top: 38px;
+    left: 502px;
+    color: white;
+    font-weight: 500;
+    line-height: 19.6px;
+    position: absolute;
+    border-bottom: 2px solid white;
+    cursor: pointer;
+    text-decoration: none;   
+}
+.syllabus {
+    width: 53px;
+    height: 20px;
+    top: 38px;
+    left: 625px;
+    color: white;
+    font-weight: 400;
+    line-height: 19.6px;
+    position: absolute;
+    opacity: 80%;
+    cursor: pointer;
+    text-decoration: none;   
+}
+.vector {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    left: 778px;
+    top: 25px;
+}
+.projects {
+    width: 52px;
+    height: 20px;
+    top: 38px;
+    left: 922px;
+    color: white;
+    font-weight: 400;
+    line-height: 19.6px;
+    position: absolute;
+    opacity: 80%;
+    cursor: pointer;
+    text-decoration: none; 
+}
+.faq {
+    width: 26px;
+    height: 20px;
+    top: 38px;
+    left: 1059px;
+    color: white;
+    font-weight: 400;
+    line-height: 19.6px;
+    position: absolute;
+    opacity: 80%;
+    cursor: pointer;
+    text-decoration: none; 
+}
+.headline {
+    position: absolute;
+    width: 730px;
+    height: 75px;
+    top: 230px;
+    left: 435px;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    color: white;
+}
+.header-text {
+    position: absolute;
+    width: 504px;
+    height: 50px;
+    top: 325px;
+    left: 548px;
+    font-weight: 400;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    justify-content: center;
+}
+.btn-main {
+    width: 184px;
+    height: 46px;
+    top: 405px;
+    left: 708px;
+    padding: 15px 47px 15px 47px;
+    background-color: #00AFDB;
+    display: flax;
+    position: absolute;
+    color: white;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer; 
+}
+.icon1 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 634px;
+    left: 715px;
+    cursor: pointer; 
+} 
+.icon2 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 634px;
+    left: 765px;
+    cursor: pointer; 
+}
+.icon3 {
+    position: absolute;
+    width: 6.67px;
+    height: 10px;
+    top: 636px;
+    left: 772.69px;
+    cursor: pointer; 
+}
+.icon4 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 634px;
+    left: 815px;
+    cursor: pointer; 
+}
+.icon5 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 635.5px;
+    left: 870px;cursor: pointer; 
+}
+.icon6 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 634px;
+    left: 865px;
+    cursor: pointer; 
+}
+
+.header2 {
+    top: 265px;
+    left: 269px;
+    width: 367px;
+    height: 57px;
+    position: absolute;
+    font-size: 24px;
+    color: #373737;
+    text-transform: uppercase;
+}
+.text2 {
+    position: absolute;
+    top: 372px;
+    left: 269px;
+    width: 407px;
+    height: 80px;    
+}
+.bold {
+    font-weight: bold;
+}
+.btn-main2 {
+    width: 184px;
+    height: 46px;
+    top: 482px;
+    left: 269px;
+    padding: 15px 47px 15px 47px;
+    background-color: #00AFDB;
+    display: flax;
+    position: absolute;
+    color: white;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer; 
+}
+.content-image1 {
+    position: absolute;
+    top: 120px;
+    left: 924px;
+    width: 407px;
+    height: 582px;
+
+}
+.userpic {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 155px;
+    left: 396px;
+}
+.our-comunity {
+    position: absolute;
+    top: 220px;
+    left: 338px;
+    width: 160px;
+    height: 20px;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+}
+.text3 {
+    position: absolute;
+    top: 250px;
+    left: 269px;
+    width: 286px;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 14px;
+}
+.rec1 {
+    position: absolute;
+    top: 120px;
+    left: 706px;
+    width: 404px;
+    height: 244px;
+
+}
+.rec2 {
+    position: absolute;
+    top: 120px;
+    left: 1143px;
+    width: 407px;
+    height: 244px;
+}
+.rec3 {
+    position: absolute;
+    top: 120px;
+    left: 1580px;
+    width: 407px;
+    height: 244px;   
+}
+.arrow {
+    position: absolute;
+    top: 85.34px;
+    left: 1250px;
+    font-size: 14px;
+    display: flex;
+    height: 15px;
+    width: 100px;
+    justify-content: space-around;
+    cursor: pointer; 
+}
+.arrow-left {
+    height: 11.31px;
+    cursor: pointer; 
+}
+.content-image2 {
+    position: absolute;
+    top: 120px;
+    left: 269px;
+    width: 407px;
+    height: 582px;
+}
+.header3 {
+    position: absolute;
+    top: 319px;
+    left: 815px;
+    width: 298px;
+    height: 28px;
+    text-transform: uppercase;
+    font-size: 24px;
+}
+.text4 {
+    position: absolute;
+    top: 367px;
+    left: 815px;
+    width: 407px;
+    height: 60px;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+}
+.btn-main3 {
+    width: 184px;
+    height: 46px;
+    top: 457px;
+    left: 815px;
+    padding: 15px 47px 15px 47px;
+    background-color: #00AFDB;
+    display: flax;
+    position: absolute;
+    color: white;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer; 
+}
+.header4 {
+    position: absolute;
+    color: white;
+    width: 380px;
+    height: 2px;
+    left: 610px;
+    top: 200px;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.text-box {
+    position: absolute;
+    width: 277px;
+    height: 46px;
+    top: 258px;
+    left: 597px;
+}
+::placeholder {
+    opacity: 0.5;
+    padding: 0px 24px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+.btn-main4 {
+    width: 66px;
+    height: 51.8px;
+    top: 258.2px;
+    left: 874px;
+    background-color: #00AFDB;
+    display: flax;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    border: none;
+    cursor: pointer; 
+}
+.check-icon {
+    width: 16px;
+    height: 13px;   
+}
+.header5 {
+    position: absolute;
+    width: 250px;
+    height: 28px;
+    top: 120px;
+    left: 675px;
+    font-size: 20px;
+    color: #373737;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.text5 {
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    top: 168px;
+    left: 550px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.apple {
+    position: absolute;
+    top: 238px;
+    left: 599px;
+    width: 127px;
+    height: 46px;
+    color: white;
+    background-color: #00AFDB;
+    display: flex;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    cursor: pointer; 
+}
+.play {
+    position: absolute;
+    top: 238px;
+    left: 815px;
+    width: 127px;
+    height: 46px;
+    color: white;
+    background-color: #00AFDB;
+    display: flex;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    cursor: pointer; 
+}
+.apple-icon {
+    position: absolute;
+    top: 238px;
+    left: 726px;
+    width: 59px;
+    height: 46px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    background-color: #009CC2;
+    
+}
+.android-icon {
+    position: absolute;
+    top: 238px;
+    left: 942px;
+    width: 59px;
+    height: 46px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    background-color: #009CC2;
+}
+.credits {
+    position: absolute;
+    width: 45px;
+    height: 20px;
+    top: 73px;
+    left: 160px;
+    color: white;
+    font-size: 12px;
+    cursor: pointer; 
+}
+.privacy {
+    position: absolute;
+    width: 46px;
+    height: 20px;
+    top: 73px;
+    left: 245px;
+    color: white;
+    font-size: 12px;
+    cursor: pointer; 
+}
+.team {
+    position: absolute;
+    width: 65px;
+    height: 20px;
+    top: 73px;
+    left: 331px;
+    color: white;
+    font-size: 12px;
+    cursor: pointer; 
+}
+.TonYem {
+    position: absolute;
+    width: 170px;
+    height: 20px;
+    top: 73px;
+    left: 1270px;
+    color:#818181;
+    font-size: 12px;
+}
+.small-icon {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 60px;
+    left: 778px;
+}
